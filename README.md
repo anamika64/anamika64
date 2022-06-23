@@ -1,6 +1,6 @@
 - I am Anamika Upadhyay
 - I have interested in mathhematics and analysing data
-- I am currently learning data science
+- i am working as AI and data analyst 
 - Reach me : linked in url  : https://www.linkedin.com/in/anamika-upadhyay-6561441a4/
 
 
